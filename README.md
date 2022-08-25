@@ -1,4 +1,4 @@
-# Template for auth plugins for Moodle
+# Template for admin tool plugins for Moodle
 
 The following steps should get you up and running with
 this module template code.
